@@ -1,4 +1,4 @@
-# ShapeDetectionv3
+# ShapeDetection
 
 A Python project that detects and tracks geometric shapes (circles, triangles, squares, rectangles)using OpenCV and Kalman filtering.
 
